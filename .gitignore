@@ -1,0 +1,9 @@
+/.git
+/.idea
+/.settings
+*.log
+*.db
+/.idea
+
+.buildpath
+.project
